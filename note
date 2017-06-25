@@ -1,0 +1,2 @@
+gpu(cupy) vs cpu(numpy)
+1000step gpu:348.9 s cpu:384.8 (minibatch size: 100)
